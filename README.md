@@ -11,7 +11,7 @@
 
 GymIQ is a **RAG-powered fitness assistant** that searches 65,000+ research chunks from PubMed and ExerciseDB to answer your gym and nutrition questions with real evidence.
 
-Ask *"Does creatine improve strength?"* and get a synthesized answer across dozens of actual clinical studies — with sources. Then hit **💪 Gym Bro Mode** to get the same answer delivered with maximum hype.
+Ask *"Does creatine improve strength?"* and get a synthesized answer across dozens of actual clinical studies — with sources. Then hit **💪 Gym Bro Mode** to get the same answer delivered in the correct Gym Bro lingo.
 
 ---
 
