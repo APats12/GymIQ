@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/APats12/GymIQ/stargazers"><img src="https://img.shields.io/github/stars/APats12/GymIQ.svg?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/APats12/GymIQ/issues"><img src="https://img.shields.io/github/issues/APats12/GymIQ.svg?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/APats12/GymIQ/network/members"><img src="https://img.shields.io/github/forks/APats12/GymIQ.svg?style=for-the-badge" alt="Forks"></a>
-</p>
-
 <div align="center">
   <h1>🏋️ GymIQ</h1>
   <p><strong>Ask any fitness or supplement question — answered by real science, not bro science.</strong></p>
