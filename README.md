@@ -2,7 +2,7 @@
   <h1>🏋️ GymIQ</h1>
   <p><strong>Ask any fitness or supplement question — answered by real science, not bro science.</strong></p>
 
-  <a href="https://gym-iq.streamlit.app">
+  <a href="https://gymiq-ai.streamlit.app">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35px" alt="Live Demo">
   </a>
 </div>
